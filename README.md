@@ -18,6 +18,8 @@ terraform-Examples
 # terraform apply
 - which will deploy the infra once you'll enter 'yes' whem it prompts for 
 
+- lab.tf file has all the code and set Path for cred Accordingly
+
 # Steps Performed -
 
 - Access and secret keys declared in cred file
