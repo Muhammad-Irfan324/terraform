@@ -9,13 +9,13 @@ terraform-Examples
 - Clone Repo
 - Change Access And Secret in Cred File
 - In Cloned directory run 
-#terraform init 
+# terraform init 
 - which will download provider plugin
 - After this run 
-#terraform plan 
+# terraform plan 
 - which will show the changes it'll make on AWS
 - After that you can run
-#terraform apply
+# terraform apply
 - which will deploy the infra once you'll enter 'yes' whem it prompts for 
 
 # Steps Performed -
